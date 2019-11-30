@@ -1,0 +1,18 @@
+a = 1
+b = 0
+inicial = 1
+Nesimo = 0
+
+numero = int(input("Ingrese un numero para la serie Fibonacci: "))
+
+if numero > 0:
+       while inicial <= numero:
+            a += b
+            b = a - b 
+            inicial+=1
+            if inicial >= numero:
+                Nesimo = b
+else:
+    print("El numero debe ser mayor a 0")
+
+print(Nesimo)
