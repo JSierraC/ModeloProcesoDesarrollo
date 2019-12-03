@@ -1,0 +1,14 @@
+
+
+Base64 by ProXoft L.L.C (http://www.proxoft.com)
+
+Valid command line syntax:
+To Encode:
+Base64[.exe] /e[ncode] sourceFile [destinationFile]
+To Decode:
+Base64[.exe] /d[ecode] sourceFile [destinationFile]
+For Help:
+Base64[.exe] /h
+
+Note:
+if optional parameter [destinationFile] is omitted, program's output will be redirected to the console window.
