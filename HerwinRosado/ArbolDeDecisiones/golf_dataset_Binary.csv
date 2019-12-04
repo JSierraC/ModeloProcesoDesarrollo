@@ -1,0 +1,11 @@
+﻿Outlook,Temperature,Humidity,Windy,Play
+Sunny,Hot,High,FALSE,no
+Sunny,Hot,High,TRUE,no
+Rain,Hot,High,FALSE,no
+Rain,Cool,Normal,FALSE,yes
+Rain,Cool,Normal,TRUE,no
+Sunny,Hot,High,FALSE,no
+Sunny,Cool,Normal,FALSE,yes
+Rain,Hot,Normal,FALSE,yes
+Sunny,Cool,Normal,TRUE,yes
+Rain,Hot,Normal,TRUE,no
